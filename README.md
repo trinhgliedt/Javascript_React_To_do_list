@@ -1,4 +1,4 @@
-<h1>A small React application to store and modify a list of tasks. Each task will have a text string as well as a completed property, which will be set to false initially. As items are checked off, they should appear slashed out on the page. </h1>
+<h3>A small React application to store and modify a list of tasks. Each task will have a text string as well as a completed property, which will be set to false initially. As items are checked off, they should appear slashed out on the page. </h3>
 
 - [x] Iterate through the existing tasks using the map method.
 - [x] llow the user to add a new task, initially set to not completed.
