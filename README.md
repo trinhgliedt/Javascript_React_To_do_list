@@ -1,3 +1,13 @@
+<h1>A small React application to store and modify a list of tasks. Each task will have a text string as well as a completed property, which will be set to false initially. As items are checked off, they should appear slashed out on the page. </h1>
+
+- [x] Iterate through the existing tasks using the map method.
+- [x] llow the user to add a new task, initially set to not completed.
+- [x] Allow the user to remove a task by clicking the delete button.
+- [x] Allow the user to toggle a task's completion property by clicking the checkbox next to it.
+- [x] When updating the tasks' state, don't mutate the current task objects or the current task list.
+
+![](main_view.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +76,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
